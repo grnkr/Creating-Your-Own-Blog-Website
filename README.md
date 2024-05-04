@@ -1,1 +1,1 @@
-# gvrmedia-Creating-Your-Own-Blog-Website
+# Creating-Your-Own-Blog-Website
